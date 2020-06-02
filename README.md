@@ -1,6 +1,6 @@
 # quizzler
 
-Quizzler by Purna Mahesh
+This a quiz app that tests your general knowledge.
 
 ## Getting Started
 
